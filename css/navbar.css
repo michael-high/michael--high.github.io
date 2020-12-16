@@ -1,0 +1,5 @@
+.navbar{
+    background-color: var(--dirt);
+    font-family: 'Delius', cursive;
+    color: var(--forestGreen)
+}

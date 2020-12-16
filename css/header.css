@@ -1,0 +1,7 @@
+.jumbotron{
+    background: url("../assets/allain-siddiqui-jKI1DWIWNFk-unsplash.jpg");
+    background-size:cover;
+    height: 300px;
+    font-family: 'Delius', cursive;
+    font-size: 75px;
+}
