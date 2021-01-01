@@ -1,7 +1,11 @@
 html, body{
-    background-image: url(https://images.pexels.com/photos/952670/pexels-photo-952670.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260);
+    background-image: url(https://images.pexels.com/photos/1939485/pexels-photo-1939485.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
     background-size: cover;
-    color:white;
+    color:black;
+    /*
+    old background
+    https://images.pexels.com/photos/952670/pexels-photo-952670.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260
+    */
 }
 .break{
     height:75px;

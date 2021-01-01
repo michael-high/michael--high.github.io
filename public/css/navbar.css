@@ -3,3 +3,10 @@
     font-family: 'Delius', cursive;
     color: var(--forestGreen)
 }
+.navbar-toggler{
+    
+}
+.navbar-toggler-icon{
+    display: flex;
+    flex-direction: column;
+}

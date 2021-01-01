@@ -1,7 +1,11 @@
 .footer{
-    background-color: #1b8c88;
-    display:flex;
+    background-color: var(--grayBox);
+    font-family: 'Delius', cursive;
+    color: var(--forestGreen);
+    
     text-align:center;
+    margin:0;
+    padding:0;
 }
 
 /*social media link icons bar*/
@@ -9,7 +13,7 @@
     display:flex;
 }
 #iconsLeft{
-    flex:15;
+    flex:5;
 }
 #twitterIcon{
     flex:1;
@@ -20,15 +24,15 @@
 #redditIcon{
     flex:1;
 }
-#discordIcon{
+#instaIcon{
     flex:1;
 }
 #linkedInIcon{
     flex:1;
 }
-#kastMediumIcon{
+#githubIcon{
     flex:1;
 }
 #iconsRight{
-    flex:15;
+    flex:5;
 }
