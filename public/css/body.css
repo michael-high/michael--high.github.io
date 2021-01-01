@@ -3,3 +3,8 @@ html, body{
     background-size: cover;
     color:white;
 }
+.break{
+    height:75px;
+    background-color:transparent;
+    width:auto;
+}

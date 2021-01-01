@@ -1,5 +1,5 @@
 .navbar{
-    background-color: var(--dirt);
+    background-color: var(--grayBox);
     font-family: 'Delius', cursive;
     color: var(--forestGreen)
 }
